@@ -1,4 +1,4 @@
-# Cat vs Dog Image Classifier by Sumit
+# Cat vs Dog Image Classifier
 
 This repository contains an image classification model that can differentiate between images of cats and dogs. The model is built using TensorFlow and Keras, and it is trained on the "Cats vs Dogs" dataset from TensorFlow Datasets (TFDS).
 
